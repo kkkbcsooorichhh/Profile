@@ -11,7 +11,9 @@ This repository contains my public homepage for OpenReview identity verification
 I am an independent researcher working on machine learning theory (sequence modeling, model expressiveness, and generation complexity).  
 I received my B.Eng. from the School of Integrated Circuits, Huazhong University of Science and Technology (HUST), 2019-2023.
 
-I currently work in industry, but my current research is pursued independently and is not part of my job responsibilities.
+Current role: Independent Researcher (since 2023, Shenzhen, China).
+
+Employment note: I currently work in industry; my research activities are pursued independently and are not part of my job responsibilities.
 
 ## Current Manuscripts
 
@@ -23,7 +25,7 @@ I currently work in industry, but my current research is pursued independently a
 
 ## Contact
 
-- Email: `YOUR_EMAIL_HERE`  
+- Email: `kingblechen@outlook.com`  
 - GitHub: [kkkbcsooorichhh](https://github.com/kkkbcsooorichhh)
 
 ## Notes
